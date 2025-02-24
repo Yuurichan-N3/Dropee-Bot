@@ -1,7 +1,7 @@
 
 ## Dropee Telegram Bot
 
-## 📌 Bot otomatis untuk game Dropee yang terhubung dengan Telegram. Bot ini mengelola token, sinkronisasi game, melakukan tapping otomatis, dan membeli upgrade untuk meningkatkan keuntungan dalam game.
+## Bot otomatis untuk game Dropee yang terhubung dengan Telegram. Bot ini mengelola token, sinkronisasi game, melakukan tapping otomatis, dan membeli upgrade untuk meningkatkan keuntungan dalam game.
 
 ## 🛠️ Fitur Utama
 
