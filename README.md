@@ -140,3 +140,14 @@ verified_users.json: Menyimpan data pengguna yang sudah diverifikasi.
 data.txt: Menyimpan data inisialisasi yang dibutuhkan untuk login pertama kali.
 
 
+## 📜 Lisensi  
+
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
+
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
+
+
+---
+
+## 💡 Disclaimer
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
